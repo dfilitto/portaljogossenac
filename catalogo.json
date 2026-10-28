@@ -1,0 +1,72 @@
+[
+  {
+    "titulo": "JUMPING FARMER",
+    "autor": "kacme",
+    "capa": "https://img.itch.zone/aW1nLzg0NzM3NTMuanBn/315x250%23c/nzn3zL.jpg",
+    "url": "https://kacme.itch.io/jumping-farmer",
+    "plataformas": [
+      "mobile",
+      "desktop",
+      "web"
+    ],
+    "categoria": "Técnico em Jogos Digitais - Turma 1 Pres.Prudente"
+  },
+  {
+    "titulo": "Heavy Meteor Cruhser",
+    "autor": "madtitanph",
+    "capa": "https://img.itch.zone/aW1nLzg1NTU1NzUucG5n/315x250%23c/GF5peP.png",
+    "url": "https://madtitanph.itch.io/hmc",
+    "plataformas": [
+      "mobile",
+      "desktop",
+      "web"
+    ],
+    "categoria": "Técnico em Jogos Digitais - Turma 1 Pres.Prudente"
+  },
+  {
+    "titulo": "CHRONOS",
+    "autor": "danilofilitto",
+    "capa": "https://img.itch.zone/aW1nLzE4MDE2OTQyLnBuZw==/315x250%23c/Xsj2TI.png",
+    "url": "https://danilofilitto.itch.io/chronos",
+    "plataformas": [
+      "desktop"
+    ],
+    "categoria": "Técnico em Jogos Digitais - Participação BGS 2024"
+  },
+  {
+    "titulo": "Overdose de Glitter",
+    "autor": "eduardo-oliveir",
+    "capa": "https://img.itch.zone/aW1nLzI5ODU4Njg0LnBuZw==/315x250%23c/6noE6h.png",
+    "url": "https://eduardo-oliveir.itch.io/overdose-de-glitter",
+    "plataformas": [
+      "mobile",
+      "desktop",
+      "web"
+    ],
+    "categoria": "Técnico em Multimidia - Turma 1"
+  },
+  {
+    "titulo": "Sangue&Ruinas",
+    "autor": "eliandk",
+    "capa": "https://img.itch.zone/aW1nLzI5NzAwOTA5LnBuZw==/315x250%23c/ljBCPe.png",
+    "url": "https://eliandk.itch.io/sangueeruinas",
+    "plataformas": [
+      "mobile",
+      "desktop",
+      "web"
+    ],
+    "categoria": "Técnico em Multimidia - Turma 1"
+  },
+  {
+    "titulo": "Cozy play",
+    "autor": "ester-rl",
+    "capa": "https://img.itch.zone/aW1nLzI5NTg5MTUxLnBuZw==/315x250%23c/v7GcGr.png",
+    "url": "https://ester-rl.itch.io/cozy-play",
+    "plataformas": [
+      "mobile",
+      "desktop",
+      "web"
+    ],
+    "categoria": "Técnico em Multimidia - Turma 1"
+  }
+]
