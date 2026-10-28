@@ -9,7 +9,7 @@
       "desktop",
       "web"
     ],
-    "categoria": "Técnico em Jogos Digitais - Turma 1 - Pres.Prudente"
+    "categoria": "Técnico em Jogos Digitais - Turma 1"
   },
   {
     "titulo": "Heavy Meteor Cruhser",
@@ -21,7 +21,7 @@
       "desktop",
       "web"
     ],
-    "categoria": "Técnico em Jogos Digitais - Turma 1 - Pres.Prudente"
+    "categoria": "Técnico em Jogos Digitais - Turma 1"
   },
   {
     "titulo": "Remed-die",
@@ -33,7 +33,7 @@
       "desktop",
       "web"
     ],
-    "categoria": "Técnico em Jogos Digitais - Turma 4 - Pres.Prudente"
+    "categoria": "Técnico em Jogos Digitais - Turma 4"
   },
   {
     "titulo": "Arkana",
@@ -45,7 +45,7 @@
       "desktop",
       "web"
     ],
-    "categoria": "Técnico em Jogos Digitais - Turma 4 - Pres.Prudente"
+    "categoria": "Técnico em Jogos Digitais - Turma 4"
   },
   {
     "titulo": "Super Alex",
@@ -57,7 +57,7 @@
       "desktop",
       "web"
     ],
-    "categoria": "Técnico em Jogos Digitais - Turma 4 - Pres.Prudente"
+    "categoria": "Técnico em Jogos Digitais - Turma 4"
   },
   {
     "titulo": "O Guardião dos Portais",
@@ -69,7 +69,7 @@
       "desktop",
       "web"
     ],
-    "categoria": "Técnico em Jogos Digitais - Turma 4 - Pres.Prudente"
+    "categoria": "Técnico em Jogos Digitais - Turma 4"
   },
   {
     "titulo": "DVLRacing",
@@ -81,7 +81,7 @@
       "desktop",
       "web"
     ],
-    "categoria": "Técnico em Jogos Digitais - Turma 4 - Pres.Prudente"
+    "categoria": "Técnico em Jogos Digitais - Turma 4"
   },
   {
     "titulo": "CHRONOS",
@@ -94,16 +94,16 @@
     "categoria": "Participação na BGS 2024"
   },
   {
-    "titulo": "Overdose de Glitter",
+    "titulo": "overdose de glitter",
     "autor": "eduardo-oliveir",
-    "capa": "https://img.itch.zone/aW1nLzI5ODU4Njg0LnBuZw==/315x250%23c/6noE6h.png",
+    "capa": "https://itch.io/static/images/itchio-textless-black.svg",
     "url": "https://eduardo-oliveir.itch.io/overdose-de-glitter",
     "plataformas": [
       "mobile",
       "desktop",
       "web"
     ],
-    "categoria": "Técnico em Multimidia - Turma 1 - Pres.Prudente"
+    "categoria": "Técnico em Multimidia - Turma 1"
   },
   {
     "titulo": "Sangue&Ruinas",
@@ -115,7 +115,7 @@
       "desktop",
       "web"
     ],
-    "categoria": "Técnico em Multimidia - Turma 1 - Pres.Prudente"
+    "categoria": "Técnico em Multimidia - Turma 1"
   },
   {
     "titulo": "Cozy play",
@@ -127,6 +127,6 @@
       "desktop",
       "web"
     ],
-    "categoria": "Técnico em Multimidia - Turma 1 - Pres.Prudente"
+    "categoria": "Técnico em Multimidia - Turma 1"
   }
 ]
