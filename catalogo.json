@@ -9,7 +9,7 @@
       "desktop",
       "web"
     ],
-    "categoria": "Técnico em Jogos Digitais - Turma 1 Pres.Prudente"
+    "categoria": "Técnico em Jogos Digitais - Turma 1 - Pres.Prudente"
   },
   {
     "titulo": "Heavy Meteor Cruhser",
@@ -21,7 +21,67 @@
       "desktop",
       "web"
     ],
-    "categoria": "Técnico em Jogos Digitais - Turma 1 Pres.Prudente"
+    "categoria": "Técnico em Jogos Digitais - Turma 1 - Pres.Prudente"
+  },
+  {
+    "titulo": "remed die",
+    "autor": "hnuke",
+    "capa": "https://itch.io/static/images/itchio-textless-black.svg",
+    "url": "https://hnuke.itch.io/remed-die",
+    "plataformas": [
+      "mobile",
+      "desktop",
+      "web"
+    ],
+    "categoria": "Técnico em Jogos Digitais - Turma 4 - Pres.Prudente"
+  },
+  {
+    "titulo": "Arkana",
+    "autor": "ladello",
+    "capa": "https://img.itch.zone/aW1nLzIzNDA5NzY3LnBuZw==/315x250%23c/fA%2FeP9.png",
+    "url": "https://ladello.itch.io/arkana",
+    "plataformas": [
+      "mobile",
+      "desktop",
+      "web"
+    ],
+    "categoria": "Técnico em Jogos Digitais - Turma 4 - Pres.Prudente"
+  },
+  {
+    "titulo": "Super Alex",
+    "autor": "hnuke",
+    "capa": "https://img.itch.zone/aW1nLzIzODEwMzA2LnBuZw==/315x250%23c/ePDZ2q.png",
+    "url": "https://hnuke.itch.io/super-alex",
+    "plataformas": [
+      "mobile",
+      "desktop",
+      "web"
+    ],
+    "categoria": "Técnico em Jogos Digitais - Turma 4 - Pres.Prudente"
+  },
+  {
+    "titulo": "O Guardião dos Portais",
+    "autor": "tiobucha",
+    "capa": "https://img.itch.zone/aW1nLzIxMTI0MTY1LnBuZw==/315x250%23c/8i6zNY.png",
+    "url": "https://tiobucha.itch.io/o-guardio-dos-portais",
+    "plataformas": [
+      "mobile",
+      "desktop",
+      "web"
+    ],
+    "categoria": "Técnico em Jogos Digitais - Turma 4 - Pres.Prudente"
+  },
+  {
+    "titulo": "DVLRacing",
+    "autor": "davippp",
+    "capa": "https://img.itch.zone/aW1nLzIzODQzMDMwLnBuZw==/315x250%23c/KVqGvi.png",
+    "url": "https://davippp.itch.io/dvracing",
+    "plataformas": [
+      "mobile",
+      "desktop",
+      "web"
+    ],
+    "categoria": "Técnico em Jogos Digitais - Turma 4 - Pres.Prudente"
   },
   {
     "titulo": "CHRONOS",
@@ -31,7 +91,7 @@
     "plataformas": [
       "desktop"
     ],
-    "categoria": "Técnico em Jogos Digitais - Participação BGS 2024"
+    "categoria": "Técnico em Jogos Digitais - Turma 4- Participação BGS 2024"
   },
   {
     "titulo": "Overdose de Glitter",
@@ -46,9 +106,9 @@
     "categoria": "Técnico em Multimidia - Turma 1"
   },
   {
-    "titulo": "Sangue&Ruinas",
+    "titulo": "sangueeruinas",
     "autor": "eliandk",
-    "capa": "https://img.itch.zone/aW1nLzI5NzAwOTA5LnBuZw==/315x250%23c/ljBCPe.png",
+    "capa": "https://itch.io/static/images/itchio-textless-black.svg",
     "url": "https://eliandk.itch.io/sangueeruinas",
     "plataformas": [
       "mobile",
