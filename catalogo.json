@@ -72,9 +72,9 @@
     "categoria": "Técnico em Jogos Digitais - Turma 4 - Pres.Prudente"
   },
   {
-    "titulo": "dvracing",
+    "titulo": "DVLRacing",
     "autor": "davippp",
-    "capa": "https://itch.io/static/images/itchio-textless-black.svg",
+    "capa": "https://img.itch.zone/aW1nLzIzODQzMDMwLnBuZw==/315x250%23c/KVqGvi.png",
     "url": "https://davippp.itch.io/dvracing",
     "plataformas": [
       "mobile",
@@ -91,19 +91,19 @@
     "plataformas": [
       "desktop"
     ],
-    "categoria": "Técnico em Jogos Digitais - Turma 4- Participação BGS 2024"
+    "categoria": "Participação na BGS 2024"
   },
   {
-    "titulo": "overdose de glitter",
+    "titulo": "Overdose de Glitter",
     "autor": "eduardo-oliveir",
-    "capa": "https://itch.io/static/images/itchio-textless-black.svg",
+    "capa": "https://img.itch.zone/aW1nLzI5ODU4Njg0LnBuZw==/315x250%23c/6noE6h.png",
     "url": "https://eduardo-oliveir.itch.io/overdose-de-glitter",
     "plataformas": [
       "mobile",
       "desktop",
       "web"
     ],
-    "categoria": "Técnico em Multimidia - Turma 1"
+    "categoria": "Técnico em Multimidia - Turma 1 - Pres.Prudente"
   },
   {
     "titulo": "Sangue&Ruinas",
@@ -115,7 +115,7 @@
       "desktop",
       "web"
     ],
-    "categoria": "Técnico em Multimidia - Turma 1"
+    "categoria": "Técnico em Multimidia - Turma 1 - Pres.Prudente"
   },
   {
     "titulo": "Cozy play",
@@ -127,6 +127,6 @@
       "desktop",
       "web"
     ],
-    "categoria": "Técnico em Multimidia - Turma 1"
+    "categoria": "Técnico em Multimidia - Turma 1 - Pres.Prudente"
   }
 ]
